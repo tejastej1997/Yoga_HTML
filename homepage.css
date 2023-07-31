@@ -222,9 +222,15 @@ p i
     justify-content: space-between;
     margin: 20px 80px;
 }
-.end
+.End
 {
     font-size: 15px;
     Padding : 0Px;
     Border: 0Px;
+}
+.Content
+{
+    font-size: 18;
+    Padding : 0Px;
+    Border: 18px;
 }
